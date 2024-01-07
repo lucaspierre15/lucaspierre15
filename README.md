@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p align="right"><b>🤔 I’m looking for help with Game Development<br><br></p>
 
 <div>
+   <a href="https://github.com/lucaspierre15?tab=repositories"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lucaspierre15&title_color=341E92&custom_title=Statistics&text_color=4682B4&icon_color=341E92&card_width=500&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=00000000&theme=midnight-purple"/>
  <img  height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=lucaspierre15&title_color=341E92&custom_title=Statistics&text_color=4169E1&icon_color=341E92&card_width=150&layout=compact&bg_color=00000000&theme=midnight-purple#gh-dark-mode-only"/>
 </div>
