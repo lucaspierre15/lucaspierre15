@@ -52,4 +52,7 @@ Here are some ideas to get you started:
 
 ### Studying in this moment:
 ![UNITY](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
+
+![Snake animation](https://github.com/lucaspierre15/lucaspierre15/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?&height=150&color=gradient&customColorList=1,7&type=waving&section=footer"/><br>
