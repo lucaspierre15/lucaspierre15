@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <p align="right"><b>🤔 I’m looking for help with Game Development</p>
 -->
-<div align="right" ><img align="left" src=""/>
+<div align="right" ><img align="left" src="https://komarev.com/ghpvc/?username=lucaspierre15&color=blueviolet&style=flat-square&label=Views+&abbreviated=true"/>
 <b>🌱 I’m currently learning C# and Unity</div> 
 
 
