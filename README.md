@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <p align="right"><b>🤔 I’m looking for help with Game Development<br><br></p>
 
 <div>
-   <img height="190em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lucaspierre15&title_color=341E92&custom_title=Statistics&text_color=4682B4&icon_color=341E92&card_width=500&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=00000000&theme=midnight-purple"/>
- <img  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=lucaspierre15&title_color=341E92&custom_title=Statistics&text_color=4169E1&icon_color=341E92&card_width=500&layout=compact&bg_color=00000000&theme=midnight-purple#gh-dark-mode-only"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lucaspierre15&title_color=341E92&custom_title=Statistics&text_color=4682B4&icon_color=341E92&card_width=500&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=00000000&theme=midnight-purple"/>
+ <img  height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=lucaspierre15&title_color=341E92&custom_title=Statistics&text_color=4169E1&icon_color=341E92&card_width=500&layout=compact&bg_color=00000000&theme=midnight-purple#gh-dark-mode-only"/>
 </div>
 <div>
     <img align="center "alt="Lucas-C#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
