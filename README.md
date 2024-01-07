@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=lucaspierre15&title_color=F7753FFF&custom_title=Language&text_color=4169E1&icon_color=341E92&card_width=150&layout=compact&bg_color=00000000&theme=midnight-purple"/>
    
 <div>
-     <img align="right" alt="Foto-Pc" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+     <img align="right" height="350" widgth="350" alt="Foto-Pc" src="https://thrworks.dev/static/media/Thr2.c5a75a28.png"/>
 </div>
 
 ##
@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 ### Studying in this moment:
 ![UNITY](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
 
+<!--
 ![Snake animation](https://github.com/lucaspierre15/lucaspierre15/blob/output/github-contribution-grid-snake.svg)
+-->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucaspierre15&bg_color=00000000&color=F7753FFF&custom_title=Contribution+Graph&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?&height=150&color=gradient&customColorList=1,7&type=waving&section=footer"/><br>
