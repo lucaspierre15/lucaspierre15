@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=lucaspierre15&title_color=F7753FFF&custom_title=Language&text_color=4169E1&icon_color=341E92&card_width=150&layout=compact&bg_color=00000000&theme=midnight-purple"/>
    
 <div>
-     <img align="right" height="350" widgth="350" alt="Foto-Pc" src="https://thrworks.dev/static/media/Thr2.c5a75a28.png"/>
+     <img align="right" height="320" widgth="320" alt="Foto-Pc" src="https://thrworks.dev/static/media/Thr2.c5a75a28.png"/>
 </div>
 
 ##
