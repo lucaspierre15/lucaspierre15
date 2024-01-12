@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/lucaspierre15?tab=repositories"/>  
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&hide_border=true&username=lucaspierre15&title_color=341E92&custom_title=Statistics&text_color=4682B4&icon_color=341E92&card_width=500&show_icons=true&rank_icon=github&include_all_commits=true&theme=midnight-purple"/>
-  
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=lucaspierre15&title_color=F7753FFF&custom_title=Language&text_color=4169E1&icon_color=341E92&card_width=150&layout=compact&bg_color=00000000&theme=midnight-purple"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucaspierre15&show_icons=true&count_private=true&hide_border=true&custom_title=Statistics&title_color=341E92&icon_color=341E92&rank_icon=github&include_all_commits=true&text_color=4682B4&bg_color=0d1117"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=lucaspierre15&title_color=F7753FFF&custom_title=Language&text_color=4169E1&icon_color=341E92&layout=compact&card_width=150&bg_color=00000000&theme=midnight-purple"/>
    
 <div>
      <img align="right" height="320" widgth="320" alt="Foto-Pc" src="https://thrworks.dev/static/media/Thr2.c5a75a28.png"/>
