@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/lucaspierre15?tab=repositories"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspierre15&show_icons=true&count_private=true&hide_border=true&custom_title=Statistics&title_color=341E92&icon_color=341E92&rank_icon=github&include_all_commits=true&text_color=4682B4&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspierre15&show_icons=true&count_private=true&hide_border=true&custom_title=Statistics&title_color=341E92&icon_color=341E92&rank_icon=github&include_all_commits=true&text_color=4682B4&bg_color=00000000"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=lucaspierre15&title_color=F7753FFF&custom_title=Language&text_color=4169E1&icon_color=341E92&layout=compact&card_width=150&bg_color=00000000&theme=midnight-purple"/>
    
 <div>
