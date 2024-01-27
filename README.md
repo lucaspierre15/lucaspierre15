@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777bb3&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-<!--
+
 ![Snake animation](https://github.com/lucaspierre15/lucaspierre15/blob/output/github-contribution-grid-snake.svg)
--->
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucaspierre15&bg_color=00000000&color=F7753FFF&custom_title=Contribution+Graph&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
