@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?&height=120&color=gradient&customColorList=20,22,24,25&type=waving"/><br>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=F7753FFF&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Oliveira;I'm+16+years+old;I'm+from+Porto,+Portugal;Be+Welcome!!!+:%29"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=F7753FFF&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Oliveira;I'm+17+years+old;I'm+from+Porto,+Portugal;Be+Welcome!!!+:%29"/>
 
 ##
 <!--
